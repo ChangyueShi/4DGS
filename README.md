@@ -1,2 +1,2 @@
-# 4DGS
+# S4DGS
 Code will be coming soon
